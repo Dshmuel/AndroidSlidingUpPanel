@@ -3,6 +3,12 @@
 
 **Note:** we are **not** actively responding to issues right now. If you find a bug, please submit a PR. 
 
+Android Sliding Up Panel Extended
+=================================
+
+Adding features:
+# Swipe out collpsed panel to hide.
+
 Android Sliding Up Panel
 =========================
 
