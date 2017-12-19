@@ -7,7 +7,7 @@ Android Sliding Up Panel Extended
 =================================
 
 Adding features:
-# Swipe out collpsed panel to hide.
+* Swipe out collapsed panel to hide.
 
 Android Sliding Up Panel
 =========================
